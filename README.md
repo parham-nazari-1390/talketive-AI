@@ -1,4 +1,4 @@
-# talketive-AI
+# talketive-app
 you need to download gTTs
 
 pip install gTTs

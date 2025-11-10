@@ -1,2 +1,4 @@
 # talketive-AI
-one ai can talk
+##you need to download gTTs
+pip install gTTs
+gTTs its one talketive ai
